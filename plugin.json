@@ -1,0 +1,18 @@
+{
+  "name"              : "Demo",
+  "description"       : "Add your custom css.",
+  "namespace"         : "Demo",
+  "author"            : "Dmitrij Sosnovsenko, PlatinPower GmbH",
+  "type"              : "template",
+  "version"           : "1.0.1a",
+  "license"           : "PlatinPower GmbH",
+  "email"             : "d.sosnovsenko@platinpower.com",
+  "phone"             : "0800 ",
+  "serviceProvider"   : "Demo\\Providers\\DemoServiceProvider",
+  "containers"        : [],
+  "dataProviders"     : [],
+  "javaScriptFiles"   : [],
+  "require"           : [],
+  "dependencies"      : [],
+  "runOnBuild"        : []
+}
